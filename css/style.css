@@ -1777,6 +1777,7 @@ a {
 
 .radio__item {
   margin-bottom: 13px;
+  white-space: nowrap;
 }
 
 .radio__label > input {
